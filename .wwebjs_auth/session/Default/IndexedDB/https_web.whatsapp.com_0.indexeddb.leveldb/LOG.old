@@ -1,0 +1,61 @@
+2024/10/27-15:49:41.664 2390 Reusing MANIFEST C:\Users\marco\Desktop\tcc\teste\api-message-whatsapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/27-15:49:41.674 2390 Recovering log #2249
+2024/10/27-15:49:41.700 2390 Reusing old log C:\Users\marco\Desktop\tcc\teste\api-message-whatsapp\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002249.log 
+2024/10/27-15:49:41.700 2390 Delete type=2 #2231
+2024/10/27-15:49:41.700 2390 Delete type=2 #2232
+2024/10/27-15:49:41.700 2390 Delete type=2 #2233
+2024/10/27-15:49:41.700 2390 Delete type=2 #2234
+2024/10/27-15:49:41.700 2390 Delete type=2 #2235
+2024/10/27-15:49:41.700 2390 Delete type=2 #2236
+2024/10/27-15:49:41.700 2390 Delete type=2 #2237
+2024/10/27-15:49:41.700 2390 Delete type=2 #2238
+2024/10/27-15:49:41.700 2390 Delete type=2 #2239
+2024/10/27-15:49:41.700 2390 Delete type=2 #2240
+2024/10/27-15:49:41.700 2390 Delete type=2 #2243
+2024/10/27-15:49:41.700 2390 Delete type=2 #2253
+2024/10/27-15:49:47.522 2334 Level-0 table #2289: started
+2024/10/27-15:49:47.532 2334 Level-0 table #2289: 187996 bytes OK
+2024/10/27-15:49:47.535 2334 Delete type=0 #2249
+2024/10/27-15:49:47.535 2334 Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at '\x00!\x00\x00\x05' @ 5979300 : 1
+2024/10/27-15:49:47.535 2334 Compacting 1@0 + 1@1 files
+2024/10/27-15:49:47.550 2334 Generated table #2290@0: 3782 keys, 78519 bytes
+2024/10/27-15:49:47.556 2334 Generated table #2291@0: 83 keys, 5847 bytes
+2024/10/27-15:49:47.561 2334 Generated table #2292@0: 271 keys, 6216 bytes
+2024/10/27-15:49:47.561 2334 Compacted 1@0 + 1@1 files => 90582 bytes
+2024/10/27-15:49:47.564 2334 compacted to: files[ 0 3 40 0 0 0 0 ]
+2024/10/27-15:49:47.565 2334 Delete type=2 #2289
+2024/10/27-15:49:47.565 2334 Manual compaction at level-0 from '\x00!\x00\x00\x05' @ 5979300 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/10/27-15:49:49.905 35c Compacting 1@1 + 10@2 files
+2024/10/27-15:49:49.970 35c Generated table #2293@1: 3641 keys, 2155050 bytes
+2024/10/27-15:49:50.070 35c Generated table #2294@1: 3733 keys, 2154802 bytes
+2024/10/27-15:49:50.146 35c Generated table #2295@1: 4123 keys, 2160883 bytes
+2024/10/27-15:49:50.248 35c Generated table #2296@1: 37309 keys, 2206678 bytes
+2024/10/27-15:49:50.362 35c Generated table #2297@1: 29234 keys, 2266611 bytes
+2024/10/27-15:49:50.491 35c Generated table #2298@1: 26943 keys, 2268272 bytes
+2024/10/27-15:49:50.588 35c Generated table #2299@1: 30012 keys, 2256403 bytes
+2024/10/27-15:49:50.687 35c Generated table #2300@1: 29172 keys, 2257890 bytes
+2024/10/27-15:49:50.793 35c Generated table #2301@1: 31302 keys, 2252377 bytes
+2024/10/27-15:49:50.844 35c Generated table #2302@1: 10982 keys, 2159108 bytes
+2024/10/27-15:49:50.844 35c Compacted 1@1 + 10@2 files => 22138074 bytes
+2024/10/27-15:49:50.846 35c compacted to: files[ 0 2 40 0 0 0 0 ]
+2024/10/27-15:49:50.846 35c Delete type=2 #2254
+2024/10/27-15:49:50.846 35c Delete type=2 #2256
+2024/10/27-15:49:50.847 35c Delete type=2 #2257
+2024/10/27-15:49:50.847 35c Delete type=2 #2258
+2024/10/27-15:49:50.847 35c Delete type=2 #2259
+2024/10/27-15:49:50.847 35c Delete type=2 #2260
+2024/10/27-15:49:50.847 35c Delete type=2 #2261
+2024/10/27-15:49:50.847 35c Delete type=2 #2262
+2024/10/27-15:49:50.847 35c Delete type=2 #2263
+2024/10/27-15:49:50.847 35c Delete type=2 #2264
+2024/10/27-15:49:50.847 35c Delete type=2 #2276
+2024/10/27-15:49:50.847 35c Delete type=2 #2291
+2024/10/27-15:49:50.893 2ffc Compacting 1@1 + 2@2 files
+2024/10/27-15:49:51.020 2ffc Generated table #2303@1: 87311 keys, 2237702 bytes
+2024/10/27-15:49:51.113 2ffc Generated table #2304@1: 39033 keys, 2213050 bytes
+2024/10/27-15:49:51.117 2ffc Generated table #2305@1: 17 keys, 26954 bytes
+2024/10/27-15:49:51.117 2ffc Compacted 1@1 + 2@2 files => 4477706 bytes
+2024/10/27-15:49:51.119 2ffc compacted to: files[ 0 1 41 0 0 0 0 ]
+2024/10/27-15:49:51.119 2ffc Delete type=2 #2265
+2024/10/27-15:49:51.119 2ffc Delete type=2 #2266
+2024/10/27-15:49:51.119 2ffc Delete type=2 #2290
